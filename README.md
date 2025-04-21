@@ -159,8 +159,6 @@ WHY? : 이젠 ChatGPT를 사용해야 한다고 생각하기 때문.
 
 - ChatGPT 모델링 결과
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4d6070c-479a-4355-8b1d-d450cf489330/b829cf6c-3522-49e1-968e-5533c873442e/Untitled.png)
-    
     - **precision ( TP / TP + FP )**
         - 긍정이라고 예측한 데이터 중 실제로 긍정인 비율 : 0.43
         - 부정이라고 예측한 데이터 중 실제로 부정인 비율 : 0.78
@@ -171,8 +169,7 @@ WHY? : 이젠 ChatGPT를 사용해야 한다고 생각하기 때문.
     
 - 인간 모델링 결과
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4d6070c-479a-4355-8b1d-d450cf489330/c1fff3db-f4b3-49c2-841a-c60632be2d33/Untitled.png)
-    
+
     - **precision ( TP / TP + FP )**
         - 긍정이라고 예측한 데이터 중 실제로 긍정인 비율 : 0.79
         - 부정이라고 예측한 데이터 중 실제로 부정인 비율 : 0.74
