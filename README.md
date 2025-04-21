@@ -114,10 +114,6 @@ WHY? : 이젠 ChatGPT를 사용해야 한다고 생각하기 때문.
 
 - 데이터 분석 - 데이터 라벨링 (ChatGPT)
     - 각 데이터에 긍정/부정/중립이라는 감정을 부여할 수 있게 질문하고 이에 따른 답을 ChatGPT에게 받아 엑셀로 수집
-    - 아래와 같이 진행함.
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4d6070c-479a-4355-8b1d-d450cf489330/a8e7844c-41b3-44d1-a0ff-60d4772d33e4/Untitled.png)
-        
 
 - 데이터 분석 - 데이터 라벨링 (인간)
     - 문장에 대해 각 단어로 나눠서(토큰화)하여 감정을 부여
